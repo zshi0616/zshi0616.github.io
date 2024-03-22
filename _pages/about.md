@@ -24,7 +24,7 @@ My research focuses on the following areas:
 - **AI for EDA**: Large Circuit Model, Logic Synthesis and Formal Verification. 
 - **AI for Optimization Problem**: SAT/SMT, MaxSAT, ILP. 
 
-I have published more than 10 papers at the top EDA conferences and journals, including DAC, ICCAD, TECS and TRETS. I also served as reviewer for DAC, ICCAD, TVLSI and Sci China Inf Sci. 
+I have published more than 10 papers at the top EDA conferences and journals, including DAC, ICCAD, TECS and TRETS. I also served as reviewer for DAC, ICCAD, TVLSI, Sci China Inf Sci and etc. 
 
 <!-- **<font color=Red>I'm looking for job opportunity (Faculty and Post-doc) in academia, expected to graduate in Nov. 2025</font>** -->
 
@@ -75,23 +75,17 @@ I have published more than 10 papers at the top EDA conferences and journals, in
 - *2017.09 - 2021.06*, B.Eng. in Information Engineering, School of Information Science and Engineering, Shandong University. 
 - *2018.07 - 2018.08*, Visiting Student, Department of Electrical and Computer Engineering, University of British Columbia. 
 
-# 💬 Invited Talks
-- *2024.03*, Scalable Circuit Representation Learning for ECO, EasyLogic.
-- *2024.01*, Circuit Representation Learning and Its Application for SAT Solving, Shandong University. 
-- *2024.01*, Circuit Representation Learning, HeXin EDA. 
-
-# 💪 Services
-- Acting Chair / Advisor, IEEE CUHK Student Branch
-- Teaching Assistant, Embedded System Development and Applications (CENG4480) / Embedded System Design (CENG2400), CUHK
-- Teaching Assistant, Applied Blockchain and Cryptocurrencies (FTEC5520), CUHK
-- Minister of Innovation and Entrepreneurship Department, SDU Student Union 
-
 # 💻 Internships
 - *2021.08 - Now*, Noah's Lab, Huawei, Hong Kong S.A.R. 
 - *2021.03 - 2021.06*, Hisilicon, China. 
 - *2020.07 - 2020.11*, Central Hardware Engineering Department, Huawei, China. 
 - *2019.12 - 2021.04*, Architecture Lab for Arithmetic and Security, CityU, supervised by [Prof. Ray C.C. Cheung](https://scholars.cityu.edu.hk/en/persons/chak-chung-ray-cheung(9874f0c3-ce32-4806-95b1-bb5ff42fe85d).html). 
 - *2019.06 - 2019.09*, Xilinx, China.
+
+# 💪 Services
+- Chair, IEEE CUHK Student Branch
+- Teaching Assistant, Embedded System Development and Applications (CENG4480) / Embedded System Design (CENG2400), CUHK
+- Teaching Assistant, Applied Blockchain and Cryptocurrencies (FTEC5520), CUHK
 
 # 😘😘😘 
 My love 💗: Yiran Liu, Ph.D. student in the Faculty of Business Administration, University of Macau. 
