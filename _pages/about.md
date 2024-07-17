@@ -29,6 +29,7 @@ I have published more than 10 papers at the top EDA conferences and journals, in
 <!-- **<font color=Red>I'm looking for job opportunity (Faculty and Post-doc) in academia, expected to graduate in Nov. 2025</font>** -->
 
 # 🔥 News
+- *2024.07*: &nbsp;🎉🎉 Our two papers *DeepGate3: Towards Scalable Circuit Representation Learning* was accepted by International Conference on Computer-Aided Design. 
 - *2023.11*: &nbsp;👉👉 The pip package of *DeepGate2* was released. You can call the circuit representation model only with **7 lines**. [Link](https://github.com/Ironprop-Stone/python-deepgate) 
 - *2023.08*: &nbsp;🎉🎉 Our two papers *DeepGate2: Functionality-Aware Circuit Learning* and *SATformer: Transformers for UNSAT Solving* were accepted by International Conference on Computer-Aided Design. 
 - *2022.04*: &nbsp;🎉🎉 Our paper *DeepGate: Learning Neural Representations of Logic Gates* was nominated as Best Paper in Design Automation Conference.  
@@ -37,7 +38,8 @@ I have published more than 10 papers at the top EDA conferences and journals, in
 
 # 📝 Publications 
 **Conference Publication**
-- [C12] [EDA-Driven Preprocessing for SAT Solving](), **Zhengyuan Shi**, Tiebing Tang, et. al. Preprint, 2024
+- [C13] [DeepGate3: Towards Scalable Circuit Representation Learning](https://arxiv.org/pdf/2407.11095), **Zhengyuan Shi**, Ziyang Zheng, Jianyuan Zhong, et. al. International Conference on Computer-Aided Design (ICCAD), 2024
+- [C12] [EDA-Driven Preprocessing for SAT Solving](https://arxiv.org/abs/2403.19446), **Zhengyuan Shi**, Tiebing Tang, et. al. Preprint, 2024
 - [C11] [DeepSeq2: Temporal Correlations Aware Sequential Circuit Learning](), Sadaf Khan, **Zhengyuan Shi**, Min Li and Qiang Xu, Preprint, 2024
 - [C10] [DeepGate2: Functionality-Aware Circuit Learning](https://ieeexplore.ieee.org/document/10323798/), **Zhengyuan Shi**, Hongyang Pan, et. al, International Conference on Computer-Aided Design (ICCAD), 2023
 - [C9] [SATformer: Transformers for UNSAT Solving](https://ieeexplore.ieee.org/document/10323731), **Zhengyuan Shi**, Min Li, et. al, International Conference on Computer-Aided Design (ICCAD), 2023
@@ -89,5 +91,3 @@ I have published more than 10 papers at the top EDA conferences and journals, in
 
 # 😘😘😘 
 My love 💗: Yiran Liu, Ph.D. student in the Faculty of Business Administration, University of Macau. 
-
-My cats 🐱🐱: Mini (咪咪) and Tangyuan (汤圆) 
