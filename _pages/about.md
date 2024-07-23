@@ -29,7 +29,7 @@ I have published more than 10 papers at the top EDA conferences and journals, in
 <!-- **<font color=Red>I'm looking for job opportunity (Faculty and Post-doc) in academia, expected to graduate in Nov. 2025</font>** -->
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 Our two papers *DeepGate3: Towards Scalable Circuit Representation Learning* was accepted by International Conference on Computer-Aided Design. 
+- *2024.07*: &nbsp;🎉🎉 Our paper *DeepGate3: Towards Scalable Circuit Representation Learning* was accepted by International Conference on Computer-Aided Design. 
 - *2023.11*: &nbsp;👉👉 The pip package of *DeepGate2* was released. You can call the circuit representation model only with **7 lines**. [Link](https://github.com/Ironprop-Stone/python-deepgate) 
 - *2023.08*: &nbsp;🎉🎉 Our two papers *DeepGate2: Functionality-Aware Circuit Learning* and *SATformer: Transformers for UNSAT Solving* were accepted by International Conference on Computer-Aided Design. 
 - *2022.04*: &nbsp;🎉🎉 Our paper *DeepGate: Learning Neural Representations of Logic Gates* was nominated as Best Paper in Design Automation Conference.  
