@@ -17,19 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhengyuan Shi (石正源, Stone) is a Ph.D. Candidate in Dept. of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Qiang Xu](https://cure-lab.github.io/). Additionally, I am a student enrolled in the Joint Ph.D. Program with Huawei Noah's Lab. Prior to my journey in CUHK, I obtained the B.Eng. degree with honors in Shandong University in 2021 and was supervised by [Prof. Gangqiang Yang](https://faculty.sdu.edu.cn/g37yang/en/index.htm). I gained valuable experience as an intern at Xilinx, Huawei and Hisilicon, and also worked as a visiting student at CityU and UBC. 
+Zhengyuan Shi (石正源, Stone) is a Ph.D. Candidate in Dept. of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Qiang Xu](https://cure-lab.github.io/). 
+Prior to my journey in CUHK, I obtained the B.Eng. degree with honors in Shandong University in 2021 and was supervised by [Prof. Gangqiang Yang](https://faculty.sdu.edu.cn/g37yang/en/index.htm). 
+I gained valuable experience as an intern at Huawei, Hisilicon and Xilinx, and also worked as a visiting student at CityU and UBC. 
+
+I'm looking for job opportunities in research positions, will graduate in Aug. 2025. 
 
 
 My research focuses on the following areas: 
 - **AI for EDA**: Large Circuit Model, Logic Synthesis and Formal Verification. 
 - **AI for Optimization Problem**: SAT/SMT, MaxSAT, ILP. 
 
-I have published more than 10 papers at the top EDA conferences and journals, including DAC, ICCAD, TECS and TRETS. I also served as reviewer for DAC, ICCAD, TVLSI, Sci China Inf Sci and etc. 
+I have published more than 20 papers at the top EDA conferences and journals, including DAC, ICCAD, DATE and ASPDAC. I also served as reviewer for DAC, ICCAD, TVLSI, Sci China Inf Sci and etc. 
 
 <!-- **<font color=Red>I'm looking for job opportunity (Faculty and Post-doc) in academia, expected to graduate in Nov. 2025</font>** -->
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 Our paper *DeepGate3: Towards Scalable Circuit Representation Learning* was accepted by International Conference on Computer-Aided Design. 
+- *2024.07*: &nbsp;🎉🎉 Our paper *DeepGate3: Towards Scalable Circuit Representation Learning* was accepted by International Conference on Computer-Aided Design. [Link](https://arxiv.org/abs/2407.11095)
 - *2023.11*: &nbsp;👉👉 The pip package of *DeepGate2* was released. You can call the circuit representation model only with **7 lines**. [Link](https://github.com/Ironprop-Stone/python-deepgate) 
 - *2023.08*: &nbsp;🎉🎉 Our two papers *DeepGate2: Functionality-Aware Circuit Learning* and *SATformer: Transformers for UNSAT Solving* were accepted by International Conference on Computer-Aided Design. 
 - *2022.04*: &nbsp;🎉🎉 Our paper *DeepGate: Learning Neural Representations of Logic Gates* was nominated as Best Paper in Design Automation Conference.  
@@ -78,7 +82,8 @@ I have published more than 10 papers at the top EDA conferences and journals, in
 - *2018.07 - 2018.08*, Visiting Student, Department of Electrical and Computer Engineering, University of British Columbia. 
 
 # 💻 Internships
-- *2021.08 - Now*, Noah's Lab, Huawei, Hong Kong S.A.R. 
+- *2024.05 - Now*, National Technology and Innovation Center of EDA 国家集成电路设计自动化技术创新中心, Nanjing, China
+- *2022.05 - 2024.05*, Noah's Lab, Huawei, Hong Kong S.A.R. 
 - *2021.03 - 2021.06*, Hisilicon, China. 
 - *2020.07 - 2020.11*, Central Hardware Engineering Department, Huawei, China. 
 - *2019.12 - 2021.04*, Architecture Lab for Arithmetic and Security, CityU, supervised by [Prof. Ray C.C. Cheung](https://scholars.cityu.edu.hk/en/persons/chak-chung-ray-cheung(9874f0c3-ce32-4806-95b1-bb5ff42fe85d).html). 
