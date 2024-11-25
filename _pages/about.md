@@ -21,7 +21,7 @@ Zhengyuan Shi (石正源, Stone) is a Ph.D. Candidate in Dept. of Computer Scien
 Prior to my journey in CUHK, I obtained the B.Eng. degree with honors in Shandong University in 2021 and was supervised by [Prof. Gangqiang Yang](https://faculty.sdu.edu.cn/g37yang/en/index.htm). 
 I gained valuable experience as an intern at Huawei, Hisilicon and Xilinx, and also worked as a visiting student at CityU and UBC. 
 
-**I'm looking for job opportunities in research positions, will graduate in Aug. 2025.**
+**I'm looking for job opportunities, will graduate in Aug. 2025.**
 
 
 My research focuses on the following areas: 
