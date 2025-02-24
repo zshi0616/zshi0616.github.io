@@ -45,8 +45,9 @@ I have published more than 20 papers at the top EDA conferences and journals, in
 
 # 📝 Publications 
 **Conference Publication**
-- [C14] [DeepCell: Multiview Representation Learning for Post-Mapping Netlists](https://arxiv.org/abs/2502.06816), **Zhengyuan Shi**, Chengyu Ma, Ziyang Zheng, et. al, Preprint, 2025
-- [C13] [Logic Optimization Meets SAT: A Novel Framework for Circuit-SAT Solving](https://arxiv.org/abs/2403.19446), **Zhengyuan Shi**, Tiebing Tang, et. al. Design Automation Conference (DAC), 2025
+- [C15] [DeepCell: Multiview Representation Learning for Post-Mapping Netlists](https://arxiv.org/abs/2502.06816), **Zhengyuan Shi**, Chengyu Ma, Ziyang Zheng, et. al, Preprint, 2025
+- [C14] [Logic Optimization Meets SAT: A Novel Framework for Circuit-SAT Solving](https://arxiv.org/abs/2403.19446), **Zhengyuan Shi**, Tiebing Tang, et. al. Design Automation Conference (DAC), 2025
+- [C13] [DeepGate4: Efficient and Effective Representation Learning for Circuit Design at Scale](https://arxiv.org/html/2502.01681v1), Ziyang Zheng, Shan Huang, Jianyuan Zhong, **Zhengyuan Shi**, et. al, International Conference on Learning Representations (ICLR), 2025
 - [C12] [DeepGate3: Towards Scalable Circuit Representation Learning](https://arxiv.org/pdf/2407.11095), **Zhengyuan Shi**, Ziyang Zheng, Jianyuan Zhong, et. al. International Conference on Computer-Aided Design (ICCAD), 2024
 - [C11] [DeepSeq2: Temporal Correlations Aware Sequential Circuit Learning](), Sadaf Khan, **Zhengyuan Shi**, Min Li and Qiang Xu, Asia and South Pacific Design Automation Conference (ASPDAC), 2024
 - [C10] [DeepSeq: Deep Sequential Circuit Learning](https://arxiv.org/abs/2302.13608), Sadaf Khan, **Zhengyuan Shi**, et. al. . Design, Automation & Test in Europe (DATE), 2023
@@ -61,7 +62,7 @@ I have published more than 20 papers at the top EDA conferences and journals, in
 - [C1] [Testability-Aware Low Power Controller Design with Evolutionary Learning](https://ieeexplore.ieee.org/document/9611355/), Min Li, **Zhengyuan Shi**, et. al. International Test Conference, 2021
 
 **Journal Publication**
-- [J4] [The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models](https://arxiv.org/abs/2403.07257), Qiang Xu, Guojie Luo, Mingxuan Yuan, **Zhengyuan Shi**, et. al. Science China Information Science, 2024. 
+- [J4] [The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models](https://arxiv.org/abs/2403.07257), Qiang Xu, Guojie Luo, Mingxuan Yuan, **Zhengyuan Shi**, et. al. Science China Information Science (SCIS), 2024. 
 - [J3] [Customized FPGA Implementation of Authenticated Lightweight Cipher Fountain for IoT Systems](https://dl.acm.org/doi/10.1145/3643039), **Zhengyuan Shi**, Cheng Chen, Gangqiang Yang et. al. ACM Transactions on Embedded Computing Systems (TECS), 2024
 - [J2] [Hardware Optimizations of Fruit-80 Stream Cipher: Smaller than Grain](https://dl.acm.org/doi/10.1145/3569455), **Zhengyuan Shi**, Gangqiang Yang, et. al. ACM Transactions on Reconfigurable Technology and Systems (TRETS), 2023
 - [J1] [Design Space Exploration of Galois and Fibonacci Configuration based on Espresso Stream Cipher](https://dl.acm.org/doi/10.1145/3567428), **Zhengyuan Shi**, Cheng Chen, Gangqiang Yang, et. al. ACM Transactions on Reconfigurable Technology and Systems (TRETS), 2023
