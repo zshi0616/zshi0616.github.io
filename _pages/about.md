@@ -33,24 +33,27 @@ I have published more than 20 papers at the top EDA conferences and journals, in
 <!-- **<font color=Red>I'm looking for job opportunity (Faculty and Post-doc) in academia, expected to graduate in Nov. 2025</font>** -->
 
 # 🔥 News
-- *2025.01*: &nbsp;🎉🎉 Our paper *DeepSeq2: Enhanced Sequential Circuit Learning with Disentangled Representations* [Link] (https://arxiv.org/abs/2411.00530) was nominated as Best Paper in Asia and South Pacific Design Automation Conference (ASPDAC). 
+- *2025.02*: &nbsp;🎉🎉 Our paper *Logic Optimization Meets SAT: A Novel Framework for Circuit-SAT Solving* was accepted by Design Automation Conference (DAC).
+- *2025.01*: &nbsp;🎉🎉 Our paper *DeepSeq2: Enhanced Sequential Circuit Learning with Disentangled Representations* [Link](https://arxiv.org/abs/2411.00530) was nominated as **Best Paper** in Asia and South Pacific Design Automation Conference (ASPDAC). 
+- *2023.11*: &nbsp;👉👉 Our paper about **Large Circuit Model**, an AI-native foundation model for EDA, was published in Science China Information Science [微信公众号](https://mp.weixin.qq.com/s/q-HwkFwaq44yzAZLwDQNCA)
 - *2024.07*: &nbsp;🎉🎉 Our paper *DeepGate3: Towards Scalable Circuit Representation Learning* was accepted by International Conference on Computer-Aided Design. [Link](https://arxiv.org/abs/2407.11095)
 - *2023.11*: &nbsp;👉👉 The pip package of *DeepGate2* was released. You can call the circuit representation model only with **7 lines**. [Link](https://github.com/Ironprop-Stone/python-deepgate) 
-- *2023.08*: &nbsp;🎉🎉 Our two papers *DeepGate2: Functionality-Aware Circuit Learning* and *SATformer: Transformers for UNSAT Solving* were accepted by International Conference on Computer-Aided Design. 
-- *2022.04*: &nbsp;🎉🎉 Our paper *DeepGate: Learning Neural Representations of Logic Gates* was nominated as Best Paper in Design Automation Conference (DAC).  
+- *2023.08*: &nbsp;🎉🎉 Our two papers *DeepGate2: Functionality-Aware Circuit Learning* and *SATformer: Transformers for UNSAT Solving* were accepted by International Conference on Computer-Aided Design (ICCAD). 
+- *2022.04*: &nbsp;🎉🎉 Our paper *DeepGate: Learning Neural Representations of Logic Gates* was nominated as **Best Paper** in Design Automation Conference (DAC).  
 - *2021.04*: &nbsp; I was selected as the *Outstanding Student of Shandong Province* and my undergraduate thesis was awarded by *Outstanding Undergraduate Thesis Award* in SDU. 
 - *2020.12*: &nbsp; I received *Presidential Scholarship* (校长奖学金, only 20 students) and *Baosteel Scholarship* (宝钢奖学金，only 4 students), which is reported by news [齐鲁晚报](https://baijiahao.baidu.com/s?id=1686698491896705379&wfr=spider&for=pc). 
 
 # 📝 Publications 
 **Conference Publication**
-- [C13] [DeepGate3: Towards Scalable Circuit Representation Learning](https://arxiv.org/pdf/2407.11095), **Zhengyuan Shi**, Ziyang Zheng, Jianyuan Zhong, et. al. International Conference on Computer-Aided Design (ICCAD), 2024
-- [C12] [EDA-Driven Preprocessing for SAT Solving](https://arxiv.org/abs/2403.19446), **Zhengyuan Shi**, Tiebing Tang, et. al. Preprint, 2024
-- [C11] [DeepSeq2: Temporal Correlations Aware Sequential Circuit Learning](), Sadaf Khan, **Zhengyuan Shi**, Min Li and Qiang Xu, Preprint, 2024
-- [C10] [DeepGate2: Functionality-Aware Circuit Learning](https://ieeexplore.ieee.org/document/10323798/), **Zhengyuan Shi**, Hongyang Pan, et. al, International Conference on Computer-Aided Design (ICCAD), 2023
-- [C9] [SATformer: Transformers for UNSAT Solving](https://ieeexplore.ieee.org/document/10323731), **Zhengyuan Shi**, Min Li, et. al, International Conference on Computer-Aided Design (ICCAD), 2023
-- [C8] [On EDA-Driven Learning for SAT Solving](https://ieeexplore.ieee.org/document/10248001/), Min Li, **Zhengyuan Shi**, et. al, Design Automation Conference (DAC), 2023
-- [C7] [Addressing Variable Dependency in GNN-based SAT Solving](https://arxiv.org/pdf/2304.08738), Zhiyuan Yan, Min Li, **Zhengyuan Shi**, et. al. Computer Aided Verification (CAV), 2023
-- [C6] [DeepSeq: Deep Sequential Circuit Learning](https://arxiv.org/abs/2302.13608), Sadaf Khan, **Zhengyuan Shi**, et. al. . Design, Automation & Test in Europe (DATE), 2023
+- [C14] [DeepCell: Multiview Representation Learning for Post-Mapping Netlists](https://arxiv.org/abs/2502.06816), **Zhengyuan Shi**, Chengyu Ma, Ziyang Zheng, et. al, Preprint, 2025
+- [C13] [Logic Optimization Meets SAT: A Novel Framework for Circuit-SAT Solving](https://arxiv.org/abs/2403.19446), **Zhengyuan Shi**, Tiebing Tang, et. al. Design Automation Conference (DAC), 2025
+- [C12] [DeepGate3: Towards Scalable Circuit Representation Learning](https://arxiv.org/pdf/2407.11095), **Zhengyuan Shi**, Ziyang Zheng, Jianyuan Zhong, et. al. International Conference on Computer-Aided Design (ICCAD), 2024
+- [C11] [DeepSeq2: Temporal Correlations Aware Sequential Circuit Learning](), Sadaf Khan, **Zhengyuan Shi**, Min Li and Qiang Xu, Asia and South Pacific Design Automation Conference (ASPDAC), 2024
+- [C10] [DeepSeq: Deep Sequential Circuit Learning](https://arxiv.org/abs/2302.13608), Sadaf Khan, **Zhengyuan Shi**, et. al. . Design, Automation & Test in Europe (DATE), 2023
+- [C9] [DeepGate2: Functionality-Aware Circuit Learning](https://ieeexplore.ieee.org/document/10323798/), **Zhengyuan Shi**, Hongyang Pan, et. al, International Conference on Computer-Aided Design (ICCAD), 2023
+- [C8] [SATformer: Transformers for UNSAT Solving](https://ieeexplore.ieee.org/document/10323731), **Zhengyuan Shi**, Min Li, et. al, International Conference on Computer-Aided Design (ICCAD), 2023
+- [C7] [On EDA-Driven Learning for SAT Solving](https://ieeexplore.ieee.org/document/10248001/), Min Li, **Zhengyuan Shi**, et. al, Design Automation Conference (DAC), 2023
+- [C6] [Addressing Variable Dependency in GNN-based SAT Solving](https://arxiv.org/pdf/2304.08738), Zhiyuan Yan, Min Li, **Zhengyuan Shi**, et. al. Computer Aided Verification (CAV), 2023
 - [C5] [Design Space Exploration of Galois and Fibonacci Configuration based on Espresso Stream Cipher](https://dl.acm.org/doi/10.1145/3567428), **Zhengyuan Shi**, Cheng Chen, Gangqiang Yang, et. al. International Conference on Field Programmable Technology (FPT), 2022
 - [C4] [DeepTPI: Test Point Insertion with Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/9983950), **Zhengyuan Shi**, Min Li, et. al. International Test Conference, 2022
 - [C3] [DeepGate: Learning Neural Representations of Logic Gates](https://dl.acm.org/doi/10.1145/3489517.3530497), Min Li, Sadaf Khan, **Zhengyuan Shi**, et. al. Design Automation Conference (DAC), 2022
@@ -58,7 +61,7 @@ I have published more than 20 papers at the top EDA conferences and journals, in
 - [C1] [Testability-Aware Low Power Controller Design with Evolutionary Learning](https://ieeexplore.ieee.org/document/9611355/), Min Li, **Zhengyuan Shi**, et. al. International Test Conference, 2021
 
 **Journal Publication**
-- [J4] [The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models](https://arxiv.org/abs/2403.07257), Qiang Xu, Guojie Luo, Mingxuan Yuan, **Zhengyuan Shi**, et. al. Preprint, 2024
+- [J4] [The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models](https://arxiv.org/abs/2403.07257), Qiang Xu, Guojie Luo, Mingxuan Yuan, **Zhengyuan Shi**, et. al. Science China Information Science, 2024. 
 - [J3] [Customized FPGA Implementation of Authenticated Lightweight Cipher Fountain for IoT Systems](https://dl.acm.org/doi/10.1145/3643039), **Zhengyuan Shi**, Cheng Chen, Gangqiang Yang et. al. ACM Transactions on Embedded Computing Systems (TECS), 2024
 - [J2] [Hardware Optimizations of Fruit-80 Stream Cipher: Smaller than Grain](https://dl.acm.org/doi/10.1145/3569455), **Zhengyuan Shi**, Gangqiang Yang, et. al. ACM Transactions on Reconfigurable Technology and Systems (TRETS), 2023
 - [J1] [Design Space Exploration of Galois and Fibonacci Configuration based on Espresso Stream Cipher](https://dl.acm.org/doi/10.1145/3567428), **Zhengyuan Shi**, Cheng Chen, Gangqiang Yang, et. al. ACM Transactions on Reconfigurable Technology and Systems (TRETS), 2023
@@ -73,23 +76,30 @@ I have published more than 20 papers at the top EDA conferences and journals, in
 
 **Others**
 - *2020.12* Presidential Scholarship, Shandong University 
-- *2020.11* Outstanding Maker of Shandong Province (山东省优秀创客), Education Council of Shandong Province (省团委、省教育厅、省科技厅等)
+- *2020.11* Outstanding Maker of Shandong Province (山东省优秀创客)
 - *2020.09* Second Prize, National Undergraduate Electronics Design Contest (全国大学生电子设计竞赛)
-- *2018.05* Outstanding Individual in Innovation and Intrepreneurship, Human Resources and Social Security Bureau, Qingdao City (青岛市团委、市人社局等)
+- *2018.05* Outstanding Individual in Innovation and Intrepreneurship, Qingdao
 - *2016.11* First Prize, National Olympiad in Informatics in Provinces (NOIP)
 
 # 📖 Educations
 - *2021.08 - Now (2025.11)*, Ph.D. Candidate, Department of Computer Science and Engineering, The Chinese University of Hong Kong. 
 - *2017.09 - 2021.06*, B.Eng. in Information Engineering, School of Information Science and Engineering, Shandong University. 
-- *2018.07 - 2018.08*, Visiting Student, Department of Electrical and Computer Engineering, University of British Columbia. 
 
 # 💻 Internships
-- *2024.05 - Now*, National Technology and Innovation Center of EDA 国家集成电路设计自动化技术创新中心, Nanjing, China
+- *2024.05 - Now*, National Technology and Innovation Center of EDA (国家集成电路设计自动化技术创新中心), Nanjing, China
 - *2022.05 - 2024.05*, Noah's Lab, Huawei, Hong Kong S.A.R. 
 - *2021.03 - 2021.06*, Hisilicon, China. 
 - *2020.07 - 2020.11*, Central Hardware Engineering Department, Huawei, China. 
 - *2019.12 - 2021.04*, Architecture Lab for Arithmetic and Security, CityU, supervised by [Prof. Ray C.C. Cheung](https://scholars.cityu.edu.hk/en/persons/chak-chung-ray-cheung(9874f0c3-ce32-4806-95b1-bb5ff42fe85d).html). 
 - *2019.06 - 2019.09*, Xilinx, China.
+- *2018.07 - 2018.08*, Visiting Student, Department of Electrical and Computer Engineering, University of British Columbia. 
+
+# 🎙️ Invited Talks
+- *2025.01*, Young Scholars Forum of the School of Electronic and Computer Engineering, Peking University (PKU)
+- *2025.01*, Outstanding Scholar Forum of Electronic and Electrical Engineering, Southern University of Science and Technology (SUSTech)
+- *2024.10*, Qilu Youth Forum, Shandong University (SDU)
+- *2024.06*, Large Circuit Model for Formal Verification, First Symposium of Large Circuit Model
+- *2024.05*, Tutorial: Boolean Satisfiability Solving State-of-the-Art, Internal Symposium of Electronics Design Automation (ISEDA)
 
 # 💪 Services
 - Chair, IEEE CUHK Student Branch
