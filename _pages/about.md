@@ -21,7 +21,7 @@ Zhengyuan Shi (石正源, Stone) is a Ph.D. Candidate in Dept. of Computer Scien
 Prior to my journey in CUHK, I obtained the B.Eng. degree with honors in Shandong University in 2021 and was supervised by [Prof. Gangqiang Yang](https://faculty.sdu.edu.cn/g37yang/en/index.htm). 
 I gained valuable experience as an intern at Huawei, Hisilicon and Xilinx, and also worked as a visiting student at CityU and UBC. 
 
-**I'm looking for job opportunities, will graduate in Aug. 2025.**
+**I'm looking for job opportunities, will graduate in Nov. 2025.**
 
 
 My research focuses on the following areas: 
@@ -33,6 +33,8 @@ I have published more than 20 papers at the top EDA conferences and journals, in
 <!-- **<font color=Red>I'm looking for job opportunity (Faculty and Post-doc) in academia, expected to graduate in Nov. 2025</font>** -->
 
 # 🔥 News
+- *2025.04*: &nbsp;🎉🎉 Our paper *DynamicSAT: Dynamic Configuration Tuning for SAT Solving* was accepted by International Conference on Principles and Practice of Constraint Programming (CP). The paper received excellent reviews, including two perfect scores (5/5/4 out of 5). 
+- *2025.04* &nbsp;👉👉 My poster of my PhD topic **Large Circuit Model: Towards AI-Native EDA Methodology** was accpeted by Design Automation Conference (DAC) PhD Forum with 1,000$ travel grant support. 
 - *2025.02*: &nbsp;🎉🎉 Our paper *Logic Optimization Meets SAT: A Novel Framework for Circuit-SAT Solving* was accepted by Design Automation Conference (DAC).
 - *2025.01*: &nbsp;🎉🎉 Our paper *DeepSeq2: Enhanced Sequential Circuit Learning with Disentangled Representations* [Link](https://arxiv.org/abs/2411.00530) was nominated as **Best Paper** in Asia and South Pacific Design Automation Conference (ASPDAC). 
 - *2023.11*: &nbsp;👉👉 Our paper about **Large Circuit Model**, an AI-native foundation model for EDA, was published in Science China Information Science [微信公众号](https://mp.weixin.qq.com/s/q-HwkFwaq44yzAZLwDQNCA)
