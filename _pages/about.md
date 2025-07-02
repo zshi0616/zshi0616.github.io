@@ -33,7 +33,8 @@ I have published more than 20 papers at the top EDA conferences and journals, in
 <!-- **<font color=Red>I'm looking for job opportunity (Faculty and Post-doc) in academia, expected to graduate in Nov. 2025</font>** -->
 
 # 🔥 News
-- *2025.04*: &nbsp;🎉🎉 Our paper *DynamicSAT: Dynamic Configuration Tuning for SAT Solving* was accepted by International Conference on Principles and Practice of Constraint Programming (CP). The paper received excellent reviews, including two perfect scores (5/5/4 out of 5). 
+- *2025.06*: &nbsp;🎉🎉 Two papers *DeepCell: Self-Supervised Multiview Fusion for Circuit Representation Learning* and *MMCircuitEval: A Comprehensive Multimodal Circuit-Focused Benchmark for Evaluating LLMs* were accepted by International Conference on Computer-Aided Design (ICCAD). 
+- *2025.05*: &nbsp;🎉🎉 Our paper *DynamicSAT: Dynamic Configuration Tuning for SAT Solving* was accepted by International Conference on Principles and Practice of Constraint Programming (CP). The paper received excellent reviews, including two perfect scores (5/5/4 out of 5). 
 - *2025.04* &nbsp;👉👉 My poster of my PhD topic **Large Circuit Model: Towards AI-Native EDA Methodology** was accpeted by Design Automation Conference (DAC) PhD Forum with 1,000$ travel grant support. 
 - *2025.02*: &nbsp;🎉🎉 Our paper *Logic Optimization Meets SAT: A Novel Framework for Circuit-SAT Solving* was accepted by Design Automation Conference (DAC).
 - *2025.01*: &nbsp;🎉🎉 Our paper *DeepSeq2: Enhanced Sequential Circuit Learning with Disentangled Representations* [Link](https://arxiv.org/abs/2411.00530) was nominated as **Best Paper** in Asia and South Pacific Design Automation Conference (ASPDAC). 
@@ -47,7 +48,9 @@ I have published more than 20 papers at the top EDA conferences and journals, in
 
 # 📝 Publications 
 **Conference Publication**
-- [C15] [DeepCell: Multiview Representation Learning for Post-Mapping Netlists](https://arxiv.org/abs/2502.06816), **Zhengyuan Shi**, Chengyu Ma, Ziyang Zheng, et. al, Preprint, 2025
+- [C17] [DeepCell: Multiview Representation Learning for Post-Mapping Netlists](https://arxiv.org/abs/2502.06816), **Zhengyuan Shi**, Chengyu Ma, Ziyang Zheng, et. al, International Conference on Computer-Aided Design (ICCAD), 2025
+- [C16] [MMCircuitEval: A Comprehensive Multimodal Circuit-Focused Benchmark for Evaluating LLMs](), Chenchen Zhao, **Zhengyuan Shi**, Xiangyu Wen, et. al, International Conference on Computer-Aided Design (ICCAD), 2025
+- [C15] [DynamicSAT: Dynamic Configuration Tuning for SAT Solving](), **Zhengyuan Shi**, Wentao Jiang, Xindi Zhang, et. al, International Conference on Principles and Practice of Constraint Programming (CP), 2025
 - [C14] [Logic Optimization Meets SAT: A Novel Framework for Circuit-SAT Solving](https://arxiv.org/abs/2403.19446), **Zhengyuan Shi**, Tiebing Tang, et. al. Design Automation Conference (DAC), 2025
 - [C13] [DeepGate4: Efficient and Effective Representation Learning for Circuit Design at Scale](https://arxiv.org/html/2502.01681v1), Ziyang Zheng, Shan Huang, Jianyuan Zhong, **Zhengyuan Shi**, et. al, International Conference on Learning Representations (ICLR), 2025
 - [C12] [DeepGate3: Towards Scalable Circuit Representation Learning](https://arxiv.org/pdf/2407.11095), **Zhengyuan Shi**, Ziyang Zheng, Jianyuan Zhong, et. al. International Conference on Computer-Aided Design (ICCAD), 2024
