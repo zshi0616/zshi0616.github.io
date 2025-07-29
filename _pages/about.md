@@ -113,4 +113,5 @@ I have published more than 20 papers at the top EDA conferences and journals, in
 - Teaching Assistant, Applied Blockchain and Cryptocurrencies (FTEC5520), CUHK
 
 # 😘😘😘 
-My love 💗: Yiran Liu, Ph.D. student in the Faculty of Business Administration, University of Macau. 
+My love 💗: Yiran Liu, Ph.D. candidate in the Faculty of Business Administration, University of Macau. 
+![photo](./images/IMG_0665.jpg "photo")
