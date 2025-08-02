@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Zhengyuan Shi (石正源, Stone) is a Ph.D. Candidate in Dept. of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Qiang Xu](https://cure-lab.github.io/). 
-Prior to my journey in CUHK, I obtained the B.Eng. degree with honors in Shandong University in 2021 and was supervised by [Prof. Gangqiang Yang](https://faculty.sdu.edu.cn/g37yang/en/index.htm). 
+Prior to my journey in CUHK, I obtained the B.Eng. degree with presidential scholarship in Shandong University in 2021 and was supervised by [Prof. Gangqiang Yang](https://faculty.sdu.edu.cn/g37yang/en/index.htm). 
 I gained valuable experience as an intern at Huawei, Hisilicon and Xilinx, and also worked as a visiting student at CityU and UBC. 
 
 **I'm looking for job opportunities, will graduate in Nov. 2025.**
