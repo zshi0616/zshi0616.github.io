@@ -49,6 +49,7 @@ I have published more than 20 papers at the top EDA conferences and journals, in
 
 # 📝 Publications 
 *Publication Summary: DAC+ICCAD x7, DATE+ASPDAC x3*
+
 **Conference Publication**
 - [C21] [DeepCell: Multiview Representation Learning for Post-Mapping Netlists](https://arxiv.org/abs/2502.06816), **Zhengyuan Shi**, Chengyu Ma, Ziyang Zheng, et. al, International Conference on Computer-Aided Design (ICCAD), 2025
 - [C20] [MMCircuitEval: A Comprehensive Multimodal Circuit-Focused Benchmark for Evaluating LLMs](), Chenchen Zhao, **Zhengyuan Shi**, Xiangyu Wen, et. al, International Conference on Computer-Aided Design (ICCAD), 2025
