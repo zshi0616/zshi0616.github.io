@@ -53,8 +53,8 @@ I have published more than 20 papers at the top EDA conferences and journals, in
 
 **Conference Publication**
 - [C21] [DeepCell: Multiview Representation Learning for Post-Mapping Netlists](https://arxiv.org/abs/2502.06816), **Zhengyuan Shi**, Chengyu Ma, Ziyang Zheng, et. al, International Conference on Computer-Aided Design (ICCAD), 2025
-- [C20] [MMCircuitEval: A Comprehensive Multimodal Circuit-Focused Benchmark for Evaluating LLMs](), Chenchen Zhao, **Zhengyuan Shi**, Xiangyu Wen, et. al, International Conference on Computer-Aided Design (ICCAD), 2025
-- [C19] [DynamicSAT: Dynamic Configuration Tuning for SAT Solving](), **Zhengyuan Shi**, Wentao Jiang, Xindi Zhang, et. al, International Conference on Principles and Practice of Constraint Programming (CP), 2025
+- [C20] [MMCircuitEval: A Comprehensive Multimodal Circuit-Focused Benchmark for Evaluating LLMs](https://arxiv.org/abs/2507.19525), Chenchen Zhao, **Zhengyuan Shi**, Xiangyu Wen, et. al, International Conference on Computer-Aided Design (ICCAD), 2025
+- [C19] [DynamicSAT: Dynamic Configuration Tuning for SAT Solving](https://drops.dagstuhl.de/storage/00lipics/lipics-vol340-cp2025/LIPIcs.CP.2025.34/LIPIcs.CP.2025.34.pdf), **Zhengyuan Shi**, Wentao Jiang, Xindi Zhang, et. al, International Conference on Principles and Practice of Constraint Programming (CP), 2025
 - [C18] [Logic Optimization Meets SAT: A Novel Framework for Circuit-SAT Solving](https://arxiv.org/abs/2403.19446), **Zhengyuan Shi**, Tiebing Tang, et al. Design Automation Conference (DAC), 2025
 - [C17] [DeepCircuitX: A Comprehensive Repository-Level Dataset for RTL Code Understanding, Generation, and PPA Analysis](https://arxiv.org/abs/2502.18297), Zeju Liu, Changran Xu, **Zhengyuan Shi**, et al. International Conference on LLM-Aided Design (ICLAD), 2025
 - [C16] [DeepRTL2: A Versatile Model for RTL-Related Tasks](https://arxiv.org/abs/2506.15697), Yi Liu, Hongji Zhang, Yunhao Zhou, **Zhengyuan Shi**, et al. Annual Meeting of the Association for Computational Linguistics (ACL), 2025
