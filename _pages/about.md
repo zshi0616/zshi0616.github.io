@@ -40,13 +40,13 @@ I have published more than 20 papers at the top EDA conferences and journals, in
 - *2025.04* &nbsp;👉👉 My poster of my PhD topic **Large Circuit Model: Towards AI-Native EDA Methodology** was accpeted by Design Automation Conference (DAC) PhD Forum with 1,000$ travel grant support. 
 - *2025.02*: &nbsp;🎉🎉 Our paper *Logic Optimization Meets SAT: A Novel Framework for Circuit-SAT Solving* was accepted by Design Automation Conference (DAC).
 - *2025.01*: &nbsp;🎉🎉 Our paper *DeepSeq2: Enhanced Sequential Circuit Learning with Disentangled Representations* [Link](https://arxiv.org/abs/2411.00530) was nominated as **Best Paper** in Asia and South Pacific Design Automation Conference (ASPDAC). 
-- *2023.11*: &nbsp;👉👉 Our paper about **Large Circuit Model**, an AI-native foundation model for EDA, was published in Science China Information Science [微信公众号](https://mp.weixin.qq.com/s/q-HwkFwaq44yzAZLwDQNCA)
-- *2024.07*: &nbsp;🎉🎉 Our paper *DeepGate3: Towards Scalable Circuit Representation Learning* was accepted by International Conference on Computer-Aided Design. [Link](https://arxiv.org/abs/2407.11095)
+- *2024.11*: &nbsp;👉👉 Our paper about **Large Circuit Model**, an AI-native foundation model for EDA, was published in Science China Information Science [微信公众号](https://mp.weixin.qq.com/s/q-HwkFwaq44yzAZLwDQNCA)
+<!-- - *2024.07*: &nbsp;🎉🎉 Our paper *DeepGate3: Towards Scalable Circuit Representation Learning* was accepted by International Conference on Computer-Aided Design. [Link](https://arxiv.org/abs/2407.11095)
 - *2023.11*: &nbsp;👉👉 The pip package of *DeepGate2* was released. You can call the circuit representation model only with **7 lines**. [Link](https://github.com/Ironprop-Stone/python-deepgate) 
 - *2023.08*: &nbsp;🎉🎉 Our two papers *DeepGate2: Functionality-Aware Circuit Learning* and *SATformer: Transformers for UNSAT Solving* were accepted by International Conference on Computer-Aided Design (ICCAD). 
 - *2022.04*: &nbsp;🎉🎉 Our paper *DeepGate: Learning Neural Representations of Logic Gates* was nominated as **Best Paper** in Design Automation Conference (DAC).  
 - *2021.04*: &nbsp; I was selected as the *Outstanding Student of Shandong Province* and my undergraduate thesis was awarded by *Outstanding Undergraduate Thesis Award* in SDU. 
-- *2020.12*: &nbsp; I received *Presidential Scholarship* (校长奖学金, only 20 students) and *Baosteel Scholarship* (宝钢奖学金，only 4 students), which is reported by news [齐鲁晚报](https://baijiahao.baidu.com/s?id=1686698491896705379&wfr=spider&for=pc). 
+- *2020.12*: &nbsp; I received *Presidential Scholarship* (校长奖学金, only 20 students) and *Baosteel Scholarship* (宝钢奖学金，only 4 students), which is reported by news [齐鲁晚报](https://baijiahao.baidu.com/s?id=1686698491896705379&wfr=spider&for=pc).  -->
 
 # 📝 Publications 
 *Publication Summary: DAC+ICCAD x7, DATE+ASPDAC x3*
