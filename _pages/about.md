@@ -44,7 +44,7 @@ I have published more than 20 papers at the top EDA conferences and journals, in
 - *2024.11*: &nbsp;👉👉 Our paper about **Large Circuit Model**, an AI-native foundation model for EDA, was published in Science China Information Science [微信公众号](https://mp.weixin.qq.com/s/q-HwkFwaq44yzAZLwDQNCA)
 
 # 📝 Publications 
-*Publication Summary: DAC+ICCAD x7, DATE+ASPDAC x3*
+*Publication Summary: DAC+ICCAD x7, DATE+ASPDAC x5*
 
 **Conference Publication**
 - [C21] [DeepCell: Multiview Representation Learning for Post-Mapping Netlists](https://arxiv.org/abs/2502.06816), **Zhengyuan Shi**, Chengyu Ma, Ziyang Zheng, et. al, International Conference on Computer-Aided Design (ICCAD), 2025
