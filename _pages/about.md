@@ -33,6 +33,7 @@ I have published more than 20 papers at the top EDA conferences and journals, in
 <!-- **<font color=Red>I'm looking for job opportunity (Faculty and Post-doc) in academia, expected to graduate in Nov. 2025</font>** -->
 
 # 🔥 News
+- *2025.09*: &nbsp;🎉🎉 Two papers were accepted by ASPDAC 2026 (I can't wait to the magical visit to HK Disneyland~). 
 - *2025.08*: &nbsp;🎉🎉 Our SAT solver Kissat-CURE wins the 3rd prize in SAT Competition Main Track. 
 - *2025.06*: &nbsp;🎉🎉 Two papers *DeepCell: Self-Supervised Multiview Fusion for Circuit Representation Learning* and *MMCircuitEval: A Comprehensive Multimodal Circuit-Focused Benchmark for Evaluating LLMs* were accepted by International Conference on Computer-Aided Design (ICCAD). 
 - *2025.06*: &nbsp;👉👉 I was selected to attend CP/SAT Doctoral Program and present our work **Circuit Learning for Boolean Satisfiability Problems**. Thanks for the travel support from Association for Constraint Programming (ACP). 
