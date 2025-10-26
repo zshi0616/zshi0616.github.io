@@ -95,7 +95,7 @@ I have published more than 20 papers at the top EDA conferences and journals, in
 - *2017.09 - 2021.06*, B.Eng. in Information Engineering, School of Information Science and Engineering, Shandong University. 
 
 # 💻 Internships
-- *2024.05 - Now*, National Technology and Innovation Center of EDA (国家集成电路设计自动化技术创新中心), Nanjing, China
+- *2024.05 - 2025.09*, National Technology and Innovation Center of EDA, Nanjing, China
 - *2022.05 - 2024.05*, Noah's Lab, Huawei, Hong Kong S.A.R. 
 - *2021.03 - 2021.06*, Hisilicon, China. 
 - *2020.07 - 2020.11*, Central Hardware Engineering Department, Huawei, China. 
@@ -104,10 +104,11 @@ I have published more than 20 papers at the top EDA conferences and journals, in
 - *2018.07 - 2018.08*, Visiting Student, Department of Electrical and Computer Engineering, University of British Columbia. 
 
 # 🎙️ Invited Talks
+- *2025.10*, Foundation Models and EDA Workshop, ICCAD. 
 - *2025.01*, Young Scholars Forum of the School of Electronic and Computer Engineering, Peking University (PKU)
 - *2025.01*, Outstanding Scholar Forum of Electronic and Electrical Engineering, Southern University of Science and Technology (SUSTech)
 - *2024.10*, Qilu Youth Forum, Shandong University (SDU)
-- *2024.06*, Large Circuit Model for Formal Verification, First Symposium of Large Circuit Model
+- *2024.06*, Large Circuit Model for Formal Verification, National Technology and Innovation Center of EDA
 - *2024.05*, Tutorial: Boolean Satisfiability Solving State-of-the-Art, Internal Symposium of Electronics Design Automation (ISEDA)
 
 # 💪 Services
