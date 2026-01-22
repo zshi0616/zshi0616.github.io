@@ -18,21 +18,19 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Zhengyuan Shi (石正源, Stone) is a Ph.D. Candidate in Dept. of Computer Science and Engineering, The Chinese University of Hong Kong (CUHK), supervised by [Prof. Qiang Xu](https://cure-lab.github.io/). 
-Prior to my journey in CUHK, I obtained the B.Eng. degree with presidential scholarship in Shandong University in 2021 and was supervised by [Prof. Gangqiang Yang](https://faculty.sdu.edu.cn/g37yang/en/index.htm). 
+Prior to my journey in CUHK, I obtained the B.Eng. degree with presidential scholarship in Shandong University in 2021. 
 I gained valuable experience as an intern at Huawei, Hisilicon and Xilinx, and also worked as a visiting student at CityU and UBC. 
-
-**I'm looking for job opportunities, will graduate in Dec. 2025.**
-
 
 My research focuses on the following areas: 
 - **AI for EDA**: Large Circuit Model, Logic Synthesis and Formal Verification. 
 - **AI for Optimization Problem**: SAT/SMT, MaxSAT, ILP. 
 
-I have published more than 20 papers at the top EDA conferences and journals, including DAC, ICCAD, DATE and ASPDAC. I also served as reviewer for DAC, ICCAD, TVLSI, Sci China Inf Sci and etc. 
+I have published more than 30 papers at the top EDA conferences and journals, including DAC, ICCAD, DATE and ASPDAC. I also served as reviewer for DAC, ICCAD, TVLSI, Sci China Inf Sci and etc. 
 
 <!-- **<font color=Red>I'm looking for job opportunity (Faculty and Post-doc) in academia, expected to graduate in Nov. 2025</font>** -->
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 I was honored to receive the Best Poster Award at SRF of ASPDAC 2026. 
 - *2025.09*: &nbsp;🎉🎉 Two papers were accepted by ASPDAC 2026 (I can't wait to the magical visit to HK Disneyland~). 
 - *2025.08*: &nbsp;🎉🎉 Our SAT solver Kissat-CURE wins the 3rd prize in SAT Competition Main Track. 
 - *2025.06*: &nbsp;🎉🎉 Two papers *DeepCell: Self-Supervised Multiview Fusion for Circuit Representation Learning* and *MMCircuitEval: A Comprehensive Multimodal Circuit-Focused Benchmark for Evaluating LLMs* were accepted by International Conference on Computer-Aided Design (ICCAD). 
@@ -44,9 +42,10 @@ I have published more than 20 papers at the top EDA conferences and journals, in
 - *2024.11*: &nbsp;👉👉 Our paper about **Large Circuit Model**, an AI-native foundation model for EDA, was published in Science China Information Science [微信公众号](https://mp.weixin.qq.com/s/q-HwkFwaq44yzAZLwDQNCA)
 
 # 📝 Publications 
-*Publication Summary: DAC+ICCAD x7, DATE+ASPDAC x5*
+*Publication Summary: DAC+ICCAD x8, DATE+ASPDAC x6*
 
 **Conference Publication**
+- TODO
 - [C21] [DeepCell: Multiview Representation Learning for Post-Mapping Netlists](https://arxiv.org/abs/2502.06816), **Zhengyuan Shi**, Chengyu Ma, Ziyang Zheng, et. al, International Conference on Computer-Aided Design (ICCAD), 2025
 - [C20] [MMCircuitEval: A Comprehensive Multimodal Circuit-Focused Benchmark for Evaluating LLMs](https://arxiv.org/abs/2507.19525), Chenchen Zhao, **Zhengyuan Shi**, Xiangyu Wen, et. al, International Conference on Computer-Aided Design (ICCAD), 2025
 - [C19] [DynamicSAT: Dynamic Configuration Tuning for SAT Solving](https://drops.dagstuhl.de/storage/00lipics/lipics-vol340-cp2025/LIPIcs.CP.2025.34/LIPIcs.CP.2025.34.pdf), **Zhengyuan Shi**, Wentao Jiang, Xindi Zhang, et. al, International Conference on Principles and Practice of Constraint Programming (CP), 2025
@@ -77,8 +76,9 @@ I have published more than 20 papers at the top EDA conferences and journals, in
 
 # 🎖 Honors and Awards
 **Acadamic Awards**
-- *2025.01* Best Paper Awared Nominee, Asia and South Pacific Design Automation Conference (ASPDAC)
-- *2022.06* Best Paper Awared Nominee, Design Automation Conference (DAC)
+- *2026.01* Best Poster Award, Asia and South Pacific Design Automation Conference (ASPDAC)
+- *2025.01* Best Paper Award Nominee, Asia and South Pacific Design Automation Conference (ASPDAC)
+- *2022.06* Best Paper Award Nominee, Design Automation Conference (DAC)
 - *2021.04* Outstanding Undergraduate Thesis Award, Shandong University 
 
 **Others**
@@ -91,7 +91,7 @@ I have published more than 20 papers at the top EDA conferences and journals, in
 - *2016.11* First Prize, National Olympiad in Informatics in Provinces (NOIP)
 
 # 📖 Educations
-- *2021.08 - Now (2025.11)*, Ph.D. Candidate, Department of Computer Science and Engineering, The Chinese University of Hong Kong. 
+- *2021.08 - 2026.01*, Ph.D. Candidate, Department of Computer Science and Engineering, The Chinese University of Hong Kong. 
 - *2017.09 - 2021.06*, B.Eng. in Information Engineering, School of Information Science and Engineering, Shandong University. 
 
 # 💻 Internships
