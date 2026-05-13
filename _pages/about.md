@@ -17,15 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhengyuan Shi (石正源, Stone) will join XXX as Tenure-Track Assistant Professor in Dec. 2026. I obtained my Ph.D. degree from The Chinese University of Hong Kong (CUHK), where I was supervised by [Prof. Qiang Xu](https://cure-lab.github.io/). Prior to that, I received my B.Eng. degree with presidential scholarship from Shandong University in 2021, supervised by [Prof. Gangqiang Yang](https://faculty.sdu.edu.cn/g37yang/zh_CN/index.htm). 
-
-I have published more than 40 papers at top-tier conferences and journals, including DAC, ICCAD, TCAD and SCIS. I have also served as TPC member for several conferences and reviewer for journals. 
-
-My research focuses on **AI/LLM** for **Electronic Design Automation (EDA)** and **Constraint Programming (CP)**, specifically in the following directions:
-- EDA: 
+Zhengyuan Shi (石正源, Stone) will join the [Microelectronics Thrust](https://mics.hkust-gz.edu.cn/) of The Hong Kong University of Science and Technology, Guangzhou (HKUST-GZ) as Assistant Professor in Jan. 2027. I'm now a Postdoctoral Fellow at The Chinese University of Hong Kong, supervised by [Prof. Qiang Xu](https://cure-lab.github.io/) and Visiting Scholar at University of Bremen, supervised by [Prof. Dr. Rolf Drechsler](https://rolfdrechsler.de/). I obtained my Ph.D. degree from The Chinese University of Hong Kong in 2026 and B.Eng. degree with presidential scholarship from Shandong University in 2021. I have published more than 40 papers at top-tier conferences and journals, including DAC, ICCAD, TCAD and SCIS. I have also served as TPC member for several conferences and reviewer for journals. 
 
 
-<!-- **<font color=Red>I'm looking for job opportunity (Faculty and Post-doc) in academia, expected to graduate in Nov. 2025</font>** -->
+My research focuses on **AI/LLM** for **Electronic Design Automation (EDA)** and **Constraint Programming (CP)**, including the following directions:
+- RTL design
+- Logic synthesis, Technology mapping 
+- Formal verification
+- Boolean satisfiability problem
+- Linear programming
+
+
+**<font color=Red>
+
+📢 **PhD Positions Available**
+
+I'm recruiting 2-3 PhD students, several PostDocs and RAs. Visiting students and intern students are also welcome. 
+PhD admission is available for 2027 Spring and 2027 Fall. Please see the [Timeline](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/admission-timeline). 
+
+Contact: zyshi21[AT]cse.cuhk.edu.hk with your CV.
+
+</font>**
 
 # 🔥 News
 - *2026.02*: &nbsp;🎉🎉 Two papers were accepted by DAC 2026. But I may not attend the conference this year 😭. 
@@ -76,17 +88,16 @@ My research focuses on **AI/LLM** for **Electronic Design Automation (EDA)** and
 - [J1] [Design Space Exploration of Galois and Fibonacci Configuration based on Espresso Stream Cipher](https://dl.acm.org/doi/10.1145/3567428), **Zhengyuan Shi**, Cheng Chen, Gangqiang Yang, et al. ACM Transactions on Reconfigurable Technology and Systems (TRETS), 2023
 
 # 🎖 Honors and Awards
-**Acadamic Awards**
 - *2026.01* Best Poster Award, Asia and South Pacific Design Automation Conference (ASPDAC)
+- *2025.07* 3rd Award, SAT Competition Main Track. 
 - *2025.01* Best Paper Award Nominee, Asia and South Pacific Design Automation Conference (ASPDAC)
 - *2022.06* Best Paper Award Nominee, Design Automation Conference (DAC)
-- *2021.04* Outstanding Undergraduate Thesis Award, Shandong University 
 
 # 📖 Educations
-- *2021.08 - 2026.01*, Ph.D. Candidate, Department of Computer Science and Engineering, The Chinese University of Hong Kong. 
-- *2017.09 - 2021.06*, B.Eng. in Information Engineering, School of Information Science and Engineering, Shandong University. 
+- *2021.08 - 2026.03*, Ph.D., Department of Computer Science and Engineering, The Chinese University of Hong Kong. 
+- *2017.09 - 2021.06*, B.Eng., School of Information Science and Engineering, Shandong University. 
 
-# 🎙️ Invited Talks
+<!-- # 🎙️ Invited Talks
 - *2026.01*, Learning Circuit Intuition for Smart Design Automation, IEEE CEDA Guangzhou Chapter. 
 - *2025.10*, Foundation Models and EDA Workshop, ICCAD. 
 - *2025.01*, Young Scholars Forum of the School of Electronic and Computer Engineering, Peking University (PKU)
@@ -96,7 +107,7 @@ My research focuses on **AI/LLM** for **Electronic Design Automation (EDA)** and
 
 # 💻 Teaching
 - Teaching Assistant, Embedded System Development and Applications (CENG4480) / Embedded System Design (CENG2400), CUHK
-- Teaching Assistant, Applied Blockchain and Cryptocurrencies (FTEC5520), CUHK
+- Teaching Assistant, Applied Blockchain and Cryptocurrencies (FTEC5520), CUHK -->
 
 # 😘😘😘 
 My love 💗: Yiran Liu, Ph.D. candidate in the Faculty of Business Administration, University of Macau. 
