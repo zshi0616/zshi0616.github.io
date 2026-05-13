@@ -28,7 +28,7 @@ My research focuses on **AI/LLM** for **Electronic Design Automation (EDA)** and
 - Linear programming
 
 
-**<font color=Red>
+<font color=Red>
 
 📢 **PhD Positions Available**
 
@@ -37,7 +37,7 @@ PhD admission is available for 2027 Spring and 2027 Fall. Please see the [Timeli
 
 Contact: zyshi21[AT]cse.cuhk.edu.hk with your CV.
 
-</font>**
+</font>
 
 # 🔥 News
 - *2026.02*: &nbsp;🎉🎉 Two papers were accepted by DAC 2026. But I may not attend the conference this year 😭. 
