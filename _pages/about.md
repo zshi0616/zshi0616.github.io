@@ -29,7 +29,7 @@ My research focuses on **AI/LLM** for **Electronic Design Automation (EDA)** and
 
 
 <font color=Red>
-I'm recruiting 2-3 PhD students, several PostDocs and RAs. Visiting students and intern students are also welcome. 
+I'm recruiting 2-3 PhD students, several PostDocs and RAs at HKUST-GZ. Visiting students and intern students are also welcome. 
 PhD admission is available for 2027 Spring and 2027 Fall. 
 Contact: zyshi21[AT]cse.cuhk.edu.hk.
 
