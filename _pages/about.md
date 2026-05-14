@@ -29,15 +29,12 @@ My research focuses on **AI/LLM** for **Electronic Design Automation (EDA)** and
 
 
 <font color=Red>
-
-📢 **PhD Positions Available**
-
-I'm recruiting 2-3 PhD students, several PostDocs and RAs. Visiting students and intern students are also welcome. 
-PhD admission is available for 2027 Spring and 2027 Fall. Please see the [Timeline](https://fytgs.hkust-gz.edu.cn/admissions/before-submitting-an-application/admission-timeline). 
-
-Contact: zyshi21[AT]cse.cuhk.edu.hk with your CV.
+I'm recruiting 2-3 PhD students, several PostDocs and RAs at HKUST-GZ. Visiting students and intern students are also welcome. 
+PhD admission is available for 2027 Spring and 2027 Fall. 
+Contact: zyshi21[AT]cse.cuhk.edu.hk.
 
 </font>
+
 
 # 🔥 News
 - *2026.02*: &nbsp;🎉🎉 Two papers were accepted by DAC 2026. But I may not attend the conference this year 😭. 
