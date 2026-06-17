@@ -8,7 +8,8 @@
 # Site Settings
 title                    : "Zhengyuan Shi"
 description              : ""
-# repository               : "RayeRen/acad-homepage.github.io"
+url                      : "https://zshi0616.github.io"
+repository               : "zshi0616/zshi0616.github.io"
 # google_scholar_stats_use_cdn : true
 
 # google analytics

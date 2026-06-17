@@ -98,14 +98,16 @@ Full publication list is available on [Google Scholar]({{ site.author.googlescho
 - *2021.08 - 2026.03*, Ph.D., Department of Computer Science and Engineering, The Chinese University of Hong Kong. 
 - *2017.09 - 2021.06*, B.Eng., School of Information Science and Engineering, Shandong University. 
 
-<!-- # 🎙️ Invited Talks
-- *2026.01*, Learning Circuit Intuition for Smart Design Automation, IEEE CEDA Guangzhou Chapter. 
-- *2025.10*, Foundation Models and EDA Workshop, ICCAD. 
-- *2025.01*, Young Scholars Forum of the School of Electronic and Computer Engineering, Peking University (PKU)
-- *2024.10*, Qilu Youth Forum, Shandong University (SDU)
-- *2024.06*, Large Circuit Model for Formal Verification, National Technology and Innovation Center of EDA
-- *2024.05*, Tutorial: Boolean Satisfiability Solving State-of-the-Art, Internal Symposium of Electronics Design Automation (ISEDA)
+# 💼 Works
+- *2026.03 - Now*, PostDoc, The Chinese University of Hong Kong. 
+- *2026.05 - Now*, Visiting Scholar, University of Bremen. 
 
+# 🎙️ Invited Talks
+- *2026.01*, [Learning Circuit Intuition for Smart Design Automation](https://r10.ieee.org/guangzhou-ceda/seminar-talk-026/), IEEE CEDA Guangzhou Chapter. 
+- *2025.11*, [Beyond LLMs: Making Foundation Model Understand Circuit](https://sites.google.com/view/iccad-workshop-2025/home), Foundation Models and EDA Workshop, ICCAD 2025. 
+- *2025.09*, [大电路模型：进展与展望](https://www.ccf.org.cn/Activities/Training/ADL/ADL/2025-08-19/847782.shtml), CCF ADL164《AI自动芯片设计》. 
+
+<!--
 # 💻 Teaching
 - Teaching Assistant, Embedded System Development and Applications (CENG4480) / Embedded System Design (CENG2400), CUHK
 - Teaching Assistant, Applied Blockchain and Cryptocurrencies (FTEC5520), CUHK -->

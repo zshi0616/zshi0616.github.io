@@ -180,8 +180,10 @@
   a {
     display: block;
     margin: 0 1rem;
-    padding: 0.5rem 0;
+    padding: 0.55rem 0;
     color: $masthead-link-color;
+    font-size: 1.05rem;
+    font-weight: 650;
     text-decoration: none;
 
     &:hover {
