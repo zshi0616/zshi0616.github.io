@@ -94,13 +94,13 @@ Full publication list is available on [Google Scholar]({{ site.author.googlescho
 - *2025.01* Best Paper Award Nominee, Asia and South Pacific Design Automation Conference (ASPDAC)
 - *2022.06* Best Paper Award Nominee, Design Automation Conference (DAC)
 
-# 📖 Educations
-- *2021.08 - 2026.03*, Ph.D., Department of Computer Science and Engineering, The Chinese University of Hong Kong. 
-- *2017.09 - 2021.06*, B.Eng., School of Information Science and Engineering, Shandong University. 
-
 # 💼 Works
 - *2026.03 - Now*, PostDoc, The Chinese University of Hong Kong. 
 - *2026.05 - Now*, Visiting Scholar, University of Bremen. 
+
+# 📖 Educations
+- *2021.08 - 2026.03*, Ph.D., Department of Computer Science and Engineering, The Chinese University of Hong Kong. 
+- *2017.09 - 2021.06*, B.Eng., School of Information Science and Engineering, Shandong University. 
 
 # 🎙️ Invited Talks
 - *2026.01*, [Learning Circuit Intuition for Smart Design Automation](https://r10.ieee.org/guangzhou-ceda/seminar-talk-026/), IEEE CEDA Guangzhou Chapter. 
