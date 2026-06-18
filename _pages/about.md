@@ -51,7 +51,11 @@ Contact: zyshi21[AT]cse.cuhk.edu.hk
 - *2024.11*: &nbsp; Our paper about **Large Circuit Model**, an AI-native foundation model for EDA, was published in Science China Information Science [微信公众号](https://mp.weixin.qq.com/s/q-HwkFwaq44yzAZLwDQNCA)
 
 # 📝 Publications 
-*Publication Summary: DAC+ICCAD x8, DATE+ASPDAC x6*
+**Publication Summary**: DAC+ICCAD x10, DATE+ASPDAC x6
+
+**Best Paper Nomination** x3: DAC26, ASPDAC25, DAC22
+
+**Best Poster** x1: ASPDAC26
 
 Full publication list is available on [Google Scholar]({{ site.author.googlescholar }}).
 
