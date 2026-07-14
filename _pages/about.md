@@ -28,7 +28,7 @@ Contact: zyshi21[AT]cse.cuhk.edu.hk
 
 
 # 🔥 News
-- *2026.02*: &nbsp; Two papers were accepted by ICCAD 2026! But I'm too tired to take the airplane for 10 hours ... 😣
+- *2026.07*: &nbsp; Two papers were accepted by ICCAD 2026! But I'm too tired to take the airplane for 10 hours ... 😣
 - *2026.06*: &nbsp; Our paper *Miter-Aware LUT Mapping: Aligning Structure for Efficient Logic Equivalence Checking* was **nominated as Best Paper** in DAC. As co-corresponding author, this is also my first time guiding a junior PhD student. Congratulations to Jiaying! 🎉🎉
 - *2026.02*: &nbsp; Two papers were accepted by DAC 2026. But I may not attend the conference this year 😭. 
 - *2026.01*: &nbsp; I was honored to receive the Best Poster Award at SRF of ASPDAC 2026. 
