@@ -19,14 +19,7 @@ redirect_from:
 
 Zhengyuan Shi (石正源, Stone) will join the [Microelectronics Thrust](https://mics.hkust-gz.edu.cn/) of The Hong Kong University of Science and Technology, Guangzhou (HKUST-GZ) as Assistant Professor in Jan. 2027. I'm now a Postdoctoral Fellow at The Chinese University of Hong Kong, supervised by [Prof. Qiang Xu](https://cure-lab.github.io/) and Visiting Scholar at University of Bremen, supervised by [Prof. Rolf Drechsler](https://rolfdrechsler.de/). I obtained my Ph.D. degree from The Chinese University of Hong Kong in 2026 and B.Eng. degree with presidential scholarship from Shandong University in 2021. I have published more than 40 papers at top-tier conferences and journals, including DAC, ICCAD, TCAD and SCIS, with 3 best paper nomination awards and 1 best poster award. I have also served as TPC member for several conferences and reviewer for journals. 
 
-
-My research focuses on **AI/LLM** for **Electronic Design Automation (EDA)** and **Constraint Programming (CP)**, including the following directions:
-- RTL design
-- Logic synthesis, Technology mapping 
-- Formal verification
-- Boolean satisfiability problem
-- Linear programming
-
+My research focuses on **AI/LLM** for **Electronic Design Automation (EDA)** and **Constraint Programming (CP)**. 
 
 <font color=Red>
 I'm recruiting 2-3 PhD students at HKUST-GZ. PhD admission is available for 2027 Spring and 2027 Fall. Red Bird MPhil (RBM) students, undergraudate students, visiting students are also welcome. 
