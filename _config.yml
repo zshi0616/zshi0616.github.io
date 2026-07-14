@@ -24,9 +24,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhengyuan Shi"
   avatar           : "images/2025.jpg"
-  bio              : "Incoming Assistant Professor, HKUST(GZ)"
-  location         : ""
-  employer         :
+  bio              : "Incoming Assistant Professor, HKUST-GZ"
+  location         : 
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com.hk/citations?user=SQaM_UMAAAAJ&hl=en"
   email            : "zyshi21@cse.cuhk.edu.hk"
@@ -38,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Ironprop-Stone"
+  github           : "zshi0616"
   google_plus      :
   keybase          :
   instagram        :

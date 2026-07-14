@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhengyuan Shi (石正源, Stone) will join the [Microelectronics Thrust](https://mics.hkust-gz.edu.cn/) of The Hong Kong University of Science and Technology, Guangzhou (HKUST-GZ) as Assistant Professor in Jan. 2027. I'm now a Postdoctoral Fellow at The Chinese University of Hong Kong, supervised by [Prof. Qiang Xu](https://cure-lab.github.io/) and Visiting Scholar at University of Bremen, supervised by [Prof. Dr. Rolf Drechsler](https://rolfdrechsler.de/). I obtained my Ph.D. degree from The Chinese University of Hong Kong in 2026 and B.Eng. degree with presidential scholarship from Shandong University in 2021. I have published more than 40 papers at top-tier conferences and journals, including DAC, ICCAD, TCAD and SCIS. I have also served as TPC member for several conferences and reviewer for journals. 
+Zhengyuan Shi (石正源, Stone) will join the [Microelectronics Thrust](https://mics.hkust-gz.edu.cn/) of The Hong Kong University of Science and Technology, Guangzhou (HKUST-GZ) as Assistant Professor in Jan. 2027. I'm now a Postdoctoral Fellow at The Chinese University of Hong Kong, supervised by [Prof. Qiang Xu](https://cure-lab.github.io/) and Visiting Scholar at University of Bremen, supervised by [Prof. Rolf Drechsler](https://rolfdrechsler.de/). I obtained my Ph.D. degree from The Chinese University of Hong Kong in 2026 and B.Eng. degree with presidential scholarship from Shandong University in 2021. I have published more than 40 papers at top-tier conferences and journals, including DAC, ICCAD, TCAD and SCIS, with 3 best paper nomination awards and 1 best poster award. I have also served as TPC member for several conferences and reviewer for journals. 
 
 
 My research focuses on **AI/LLM** for **Electronic Design Automation (EDA)** and **Constraint Programming (CP)**, including the following directions:
@@ -29,29 +29,30 @@ My research focuses on **AI/LLM** for **Electronic Design Automation (EDA)** and
 
 
 <font color=Red>
-I'm recruiting 2-3 PhD students, several PostDocs and RAs at HKUST-GZ. Visiting students and intern students are also welcome. 
-PhD admission is available for 2027 Spring and 2027 Fall. 
+I'm recruiting 2-3 PhD students at HKUST-GZ. PhD admission is available for 2027 Spring and 2027 Fall. Red Bird MPhil (RBM) students, undergraudate students, visiting students are also welcome. 
 Contact: zyshi21[AT]cse.cuhk.edu.hk
 
+我计划招收27年春季或秋季入学博士研究生2-3名，同时欢迎红鸟硕士、本科生、访问学生。请联系：zyshi21[AT]cse.cuhk.edu.hk
 </font>
 
 
 # 🔥 News
+- *2026.02*: &nbsp; Two papers were accepted by ICCAD 2026! But I'm too tired to take the airplane for 10 hours ... 😣
 - *2026.06*: &nbsp; Our paper *Miter-Aware LUT Mapping: Aligning Structure for Efficient Logic Equivalence Checking* was **nominated as Best Paper** in DAC. As co-corresponding author, this is also my first time guiding a junior PhD student. Congratulations to Jiaying! 🎉🎉
 - *2026.02*: &nbsp; Two papers were accepted by DAC 2026. But I may not attend the conference this year 😭. 
 - *2026.01*: &nbsp; I was honored to receive the Best Poster Award at SRF of ASPDAC 2026. 
 - *2025.09*: &nbsp; Two papers were accepted by ASPDAC 2026 (I can't wait to the magical visit to HK Disneyland~). 
 - *2025.08*: &nbsp; Our SAT solver Kissat-CURE wins the 3rd prize in SAT Competition Main Track. 
 - *2025.06*: &nbsp; Two papers *DeepCell* and *MMCircuitEval* were accepted by International Conference on Computer-Aided Design (ICCAD). 
-- *2025.06*: &nbsp; I was selected to attend CP/SAT Doctoral Program and present our work **Circuit Learning for Boolean Satisfiability Problems**. Thanks for the travel support from Association for Constraint Programming (ACP). 
-- *2025.05*: &nbsp; Our paper *DynamicSAT: Dynamic Configuration Tuning for SAT Solving* was accepted by International Conference on Principles and Practice of Constraint Programming (CP). The paper received excellent reviews, including two perfect scores (5/5/4 out of 5). 
+- *2025.06*: &nbsp; I was selected to attend CP/SAT Doctoral Program and present our work **Circuit Learning for Boolean Satisfiability Problems**. Association for Constraint Programming (ACP) will cover all the travel cost, thanks for the support! 
+- *2025.05*: &nbsp; Our paper *DynamicSAT: Dynamic Configuration Tuning for SAT Solving* was accepted by International Conference on Principles and Practice of Constraint Programming (CP). 
 - *2025.04* &nbsp; My poster of my PhD topic **Large Circuit Model: Towards AI-Native EDA Methodology** was accpeted by Design Automation Conference (DAC) PhD Forum with 1,000$ travel grant support. 
 - *2025.02*: &nbsp; Our paper *Logic Optimization Meets SAT: A Novel Framework for Circuit-SAT Solving* was accepted by Design Automation Conference (DAC).
 - *2025.01*: &nbsp; Our paper *DeepSeq2: Enhanced Sequential Circuit Learning with Disentangled Representations* [Link](https://arxiv.org/abs/2411.00530) was **nominated as Best Paper** in ASPDAC. 🎉🎉
 - *2024.11*: &nbsp; Our paper about **Large Circuit Model**, an AI-native foundation model for EDA, was published in Science China Information Science [微信公众号](https://mp.weixin.qq.com/s/q-HwkFwaq44yzAZLwDQNCA)
 
 # 📝 Publications 
-**Publication Summary**: DAC+ICCAD x10, DATE+ASPDAC x6
+**Publication Summary**: DAC+ICCAD x12, DATE+ASPDAC x6
 
 **Best Paper Nomination** x3: DAC26, ASPDAC25, DAC22
 
