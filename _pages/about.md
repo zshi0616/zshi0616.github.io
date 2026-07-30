@@ -28,8 +28,8 @@ Contact: zyshi21[AT]cse.cuhk.edu.hk
 
 
 # 🔥 News
+- *2026.07*: &nbsp; Our paper *Miter-Aware LUT Mapping: Aligning Structure for Efficient Logic Equivalence Checking* was selected as **Best Paper** in DAC. As co-corresponding author, this is also my first time guiding a junior PhD student. Congratulations to Jiaying! 🎉🎉
 - *2026.07*: &nbsp; Two papers were accepted by ICCAD 2026! But I'm too tired to take the airplane for 10 hours ... 😣
-- *2026.06*: &nbsp; Our paper *Miter-Aware LUT Mapping: Aligning Structure for Efficient Logic Equivalence Checking* was **nominated as Best Paper** in DAC. As co-corresponding author, this is also my first time guiding a junior PhD student. Congratulations to Jiaying! 🎉🎉
 - *2026.02*: &nbsp; Two papers were accepted by DAC 2026. But I may not attend the conference this year 😭. 
 - *2026.01*: &nbsp; I was honored to receive the Best Poster Award at SRF of ASPDAC 2026. 
 - *2025.09*: &nbsp; Two papers were accepted by ASPDAC 2026 (I can't wait to the magical visit to HK Disneyland~). 
@@ -45,9 +45,12 @@ Contact: zyshi21[AT]cse.cuhk.edu.hk
 # 📝 Publications 
 **Publication Summary**: DAC+ICCAD x12, DATE+ASPDAC x6
 
-**Best Paper Nomination** x3: DAC26, ASPDAC25, DAC22
+**Best Paper Award** x1: DAC26
 
-**Best Poster** x1: ASPDAC26
+**Best Poster Award** x1: ASPDAC26
+
+**Best Paper Nomination** x2: ASPDAC25, DAC22
+
 
 Full publication list is available on [Google Scholar]({{ site.author.googlescholar }}).
 
@@ -84,7 +87,7 @@ Full publication list is available on [Google Scholar]({{ site.author.googlescho
 - [J1] [Design Space Exploration of Galois and Fibonacci Configuration based on Espresso Stream Cipher](https://dl.acm.org/doi/10.1145/3567428), **Zhengyuan Shi**, Cheng Chen, Gangqiang Yang, et al. ACM Transactions on Reconfigurable Technology and Systems (TRETS), 2023 -->
 
 # 🎖 Honors and Awards
-- *2026.06* Best Paper Award Nominee, Design Automation Conference (DAC)
+- *2026.06* Best Paper Award, Design Automation Conference (DAC)
 - *2026.01* Best Poster Award, Asia and South Pacific Design Automation Conference (ASPDAC)
 - *2025.07* 3rd Award, SAT Competition Main Track. 
 - *2025.01* Best Paper Award Nominee, Asia and South Pacific Design Automation Conference (ASPDAC)
