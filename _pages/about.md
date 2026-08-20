@@ -23,7 +23,7 @@ My research focuses on **AI/LLM** for **Electronic Design Automation (EDA)** and
 
 <font color=Red>
 I'm recruiting 2-3 PhD students at HKUST-GZ. PhD admission is available for 2027 Spring and 2027 Fall. Red Bird MPhil (RBM) students, undergraudate students, visiting students are also welcome. 
-Contact: zyshi21[AT]cse.cuhk.edu.hk
+Contact: zyshi21[AT]cse.cuhk.edu.hk / zshi0616[AT]gmail.com
 </font>
 
 
