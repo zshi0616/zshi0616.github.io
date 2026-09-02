@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhengyuan Shi (石正源, Stone) will join the [Microelectronics Thrust](https://mics.hkust-gz.edu.cn/) of The Hong Kong University of Science and Technology, Guangzhou (HKUST-GZ) as Assistant Professor in Jan. 2027. I'm now a Postdoctoral Fellow at The Chinese University of Hong Kong, supervised by [Prof. Qiang Xu](https://cure-lab.github.io/) and Visiting Scholar at University of Bremen, supervised by [Prof. Rolf Drechsler](https://rolfdrechsler.de/). I obtained my Ph.D. degree from The Chinese University of Hong Kong in 2026 and B.Eng. degree with presidential scholarship from Shandong University in 2021. I have published more than 40 papers at top-tier conferences and journals, including DAC, ICCAD, TCAD and SCIS, with 1 best paper award, 1 best poster award and 2 best paper nomination awards. I have also served as TPC member for several conferences and reviewer for journals. 
+Zhengyuan Shi (石正源, Stone) will join the [Microelectronics Thrust](https://mics.hkust-gz.edu.cn/) of Hong Kong University of Science and Technology, Guangzhou (HKUST-GZ) as Assistant Professor in Jan. 2027. I'm now a Postdoctoral Fellow at The Chinese University of Hong Kong (CUHK), supervised by [Prof. Qiang Xu](https://cure-lab.github.io/). Before that, I was Visiting Scholar at University of Bremen, work with[Prof. Rolf Drechsler](https://rolfdrechsler.de/). I obtained Ph.D. degree from CUHK in 2026 and B.Eng. degree with presidential scholarship from Shandong University in 2021. I have published more than 40 papers at top-tier conferences and journals, with 1 Best Paper Award (DAC26, as corresponding author), 1 Best Poster Award (ASPDAC26, as first author) and 2 Best Paper Nomination awards. I have also served as TPC member for several conferences and reviewer for journals. 
 
 My research focuses on **AI/LLM** for **Electronic Design Automation (EDA)** and **Constraint Programming (CP)**. 
 
@@ -28,6 +28,7 @@ Contact: zyshi21[AT]cse.cuhk.edu.hk / zshi0616[AT]gmail.com
 
 
 # 🔥 News
+- *2026.09*: &nbsp; Two papers were accepted by ASPDAC 2027! 
 - *2026.07*: &nbsp; Our paper *Miter-Aware LUT Mapping: Aligning Structure for Efficient Logic Equivalence Checking* was selected as **Best Paper** in DAC! As co-corresponding author, this is also my first time guiding a junior PhD student. Congratulations to Jiaying! 🎉🎉
 - *2026.07*: &nbsp; Two papers were accepted by ICCAD 2026! 
 - *2026.02*: &nbsp; Two papers were accepted by DAC 2026. But I may not attend the conference this year 😭. 
@@ -42,8 +43,24 @@ Contact: zyshi21[AT]cse.cuhk.edu.hk / zshi0616[AT]gmail.com
 - *2025.01*: &nbsp; Our paper *DeepSeq2: Enhanced Sequential Circuit Learning with Disentangled Representations* [Link](https://arxiv.org/abs/2411.00530) was **nominated as Best Paper** in ASPDAC. 🎉🎉
 - *2024.11*: &nbsp; Our paper about **Large Circuit Model**, an AI-native foundation model for EDA, was published in Science China Information Science [微信公众号](https://mp.weixin.qq.com/s/q-HwkFwaq44yzAZLwDQNCA)
 
+# 🧐 Research
+**Circuit Representation Learning**: 
+
+- Netlist Encoder: [DeepGate Family @ ICCAD23](https://github.com/zshi0616/python-deepgate) for combination circuit, [DeepSeq Family @ DAC26](https://arxiv.org/abs/2608.28188) for sequential circuit. 
+- Multimodal / Multiview Learning: [DeepCell @ ICCAD25](https://ieeexplore.ieee.org/abstract/document/11240883), [MixGate @ ICCAD26](https://arxiv.org/abs/2509.20968)
+
+**From Boolean Satisfiability to Logic Verification**: 
+
+- Problem Reformulation (Preprocessing): [LOMeetSAT @ DAC25](https://arxiv.org/abs/2403.19446), [Map4LEC @ DAC26](https://arxiv.org/abs/2607.07164)
+- AI-driven Heuristics (Inprocessing): [DynamicSAT @ CP25](https://drops.dagstuhl.de/storage/00lipics/lipics-vol340-cp2025/LIPIcs.CP.2025.34/LIPIcs.CP.2025.34.pdf), [CASCAD](https://arxiv.org/abs/2508.04235)
+
+**Cross-stage Design and Optimization**:
+- Physical-Aware Design: [LevelSyn @ ICCAD26]()
+- LLM-driven Design: [MMCircuitEval @ ICCAD25](https://arxiv.org/abs/2507.19525)
+
+
 # 📝 Publications 
-**Publication Summary**: DAC+ICCAD x12, DATE+ASPDAC x6
+**Publication Summary**: DAC+ICCAD x12, DATE+ASPDAC x8
 
 **Best Paper Award** x1: DAC26
 
@@ -54,48 +71,17 @@ Contact: zyshi21[AT]cse.cuhk.edu.hk / zshi0616[AT]gmail.com
 
 Full publication list is available on [Google Scholar]({{ site.author.googlescholar }}).
 
-<!-- **Conference Publication**
-- [C24] [Miter-Aware LUT Mapping: Aligning Structure for Efficient Logic Equivalence Checking](), Jiaying Zhu, **Zhengyuan Shi**, et. al,
-- [C23] [Beyond Flat Netlist: Hierarchical Graph Representation Learning for Scalable Analysis of Sequential Circuits](), Jingyi Zhou, **Zhengyuan Shi**, Ziyang Zheng, et. al,
-- [C22] [DynamicRTL: RTL Representation Learning for Dynamic Circuit Behavior](https://arxiv.org/abs/2511.09593), Ruiyang Ma, Yunhao Zhou, Yipeng Wang, Yi Liu, **Zhengyuan Shi**, et. al,
-- [C21] [Functional Matching of Logic Subgraphs: Beyond Structural Isomorphism](https://arxiv.org/abs/2505.21988), Ziyang Zheng, Kezhi Li, **Zhengyuan Shi**, Qiang Xu, International Conference on Neural Information Processing Systems (NeurIPS)
-- [C20] [DeepCut: Structure-Aware GNN Framework for Efficient Cut Timing Prediction in Logic Synthesis](https://ieeexplore.ieee.org/document/11420352), Lingfeng Zhou, Yilong Zhou, **Zhengyuan Shi**, et. al, Asia and South Pacific Design Automation Conference (ASPDAC)
-- [C19] [AC-Refiner: Efficient Arithmetic Circuit Optimization Using Conditional Diffusion Models](https://ieeexplore.ieee.org/abstract/document/11420458), Chenhao Xue, Kezhi Li, Jiaxing Zhang, **Zhengyuan Shi**, et. al, Asia and South Pacific Design Automation Conference (ASPDAC)
-- [C18] [DeepCell: Multiview Representation Learning for Post-Mapping Netlists](https://arxiv.org/abs/2502.06816), **Zhengyuan Shi**, Chengyu Ma, Ziyang Zheng, et. al, ICCAD 2025.
-- [C17] [MMCircuitEval: A Comprehensive Multimodal Circuit-Focused Benchmark for Evaluating LLMs](https://arxiv.org/abs/2507.19525), Chenchen Zhao, **Zhengyuan Shi**, Xiangyu Wen, et. al, ICCAD 2025.
-- [C16] [DynamicSAT: Dynamic Configuration Tuning for SAT Solving](https://drops.dagstuhl.de/storage/00lipics/lipics-vol340-cp2025/LIPIcs.CP.2025.34/LIPIcs.CP.2025.34.pdf), **Zhengyuan Shi**, Wentao Jiang, Xindi Zhang, et. al, CP 2025.
-- [C15] [Logic Optimization Meets SAT: A Novel Framework for Circuit-SAT Solving](https://arxiv.org/abs/2403.19446), **Zhengyuan Shi**, Tiebing Tang, et al. DAC 2025.
-- [C14] [DeepCircuitX: A Comprehensive Repository-Level Dataset for RTL Code Understanding, Generation, and PPA Analysis](https://arxiv.org/abs/2502.18297), Zeju Liu, Changran Xu, **Zhengyuan Shi**, et al. ICLAD 2025.
-- [C13] [DeepRTL2: A Versatile Model for RTL-Related Tasks](https://arxiv.org/abs/2506.15697), Yi Liu, Hongji Zhang, Yunhao Zhou, **Zhengyuan Shi**, et al. ACL (Findings) 2025
-- [C12] [ForgeEDA: A Comprehensive Multimodal Dataset for Advancing EDA](https://arxiv.org/abs/2505.02016), **Zhengyuan Shi**, Zeju Li, Chengyu Ma, et al. ISEDA 2025. 
-- [C11] [WideGate: Beyond Directed Acyclic Graph Learning in Subcircuit Boundary Prediction](https://ieeexplore.ieee.org/document/10992972), Jiawei Liu, Zhiyan Liu, Xun He, Jiangwang Zhai, **Zhengyuan Shi**, et al. DATE 2025. 
-- [C10] [DeepSeq2: Temporal Correlations Aware Sequential Circuit Learning](https://arxiv.org/abs/2411.00530), Sadaf Khan, **Zhengyuan Shi**, Min Li and Qiang Xu, ASPDAC 2025. 
-- [C9] [DeepGate4: Efficient and Effective Representation Learning for Circuit Design at Scale](https://arxiv.org/html/2502.01681v1), Ziyang Zheng, Shan Huang, Jianyuan Zhong, **Zhengyuan Shi**, et. al, ICLR 2025. 
-- [C8] [DeepGate3: Towards Scalable Circuit Representation Learning](https://arxiv.org/pdf/2407.11095), **Zhengyuan Shi**, Ziyang Zheng, Jianyuan Zhong, et al. ICCAD 2024. 
-- [C7] [DeepSeq: Deep Sequential Circuit Learning](https://arxiv.org/abs/2302.13608), Sadaf Khan, **Zhengyuan Shi**, et al. DATE 2024. 
-- [C6] [DeepGate2: Functionality-Aware Circuit Learning](https://ieeexplore.ieee.org/document/10323798/), **Zhengyuan Shi**, Hongyang Pan, et. al, ICCAD 2023. 
-- [C5] [SATformer: Transformers for UNSAT Solving](https://ieeexplore.ieee.org/document/10323731), **Zhengyuan Shi**, Min Li, et. al, ICCAD 2023. 
-- [C4] [On EDA-Driven Learning for SAT Solving](https://ieeexplore.ieee.org/document/10248001/), Min Li, **Zhengyuan Shi**, et. al, DAC 2023. 
-- [C3] [DeepTPI: Test Point Insertion with Deep Reinforcement Learning](https://ieeexplore.ieee.org/document/9983950), **Zhengyuan Shi**, Min Li, et al. ITC 2022. 
-- [C2] [DeepGate: Learning Neural Representations of Logic Gates](https://dl.acm.org/doi/10.1145/3489517.3530497), Min Li, Sadaf Khan, **Zhengyuan Shi**, et al. DAC 2022. 
-- [C1] [Testability-Aware Low Power Controller Design with Evolutionary Learning](https://ieeexplore.ieee.org/document/9611355/), Min Li, **Zhengyuan Shi**, et al. ITC 2021. 
-
-**Journal Publication**
-- [J4] [The Dawn of AI-Native EDA: Promises and Challenges of Large Circuit Models](https://arxiv.org/abs/2403.07257). Science China Information Science (SCIS), 2024. 
-- [J3] [Customized FPGA Implementation of Authenticated Lightweight Cipher Fountain for IoT Systems](https://dl.acm.org/doi/10.1145/3643039), **Zhengyuan Shi**, Cheng Chen, Gangqiang Yang et al. ACM Transactions on Embedded Computing Systems (TECS), 2024
-- [J2] [Hardware Optimizations of Fruit-80 Stream Cipher: Smaller than Grain](https://dl.acm.org/doi/10.1145/3569455), **Zhengyuan Shi**, Gangqiang Yang, et al. ACM Transactions on Reconfigurable Technology and Systems (TRETS), 2023
-- [J1] [Design Space Exploration of Galois and Fibonacci Configuration based on Espresso Stream Cipher](https://dl.acm.org/doi/10.1145/3567428), **Zhengyuan Shi**, Cheng Chen, Gangqiang Yang, et al. ACM Transactions on Reconfigurable Technology and Systems (TRETS), 2023 -->
-
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - *2026.06* Best Paper Award, Design Automation Conference (DAC)
 - *2026.01* Best Poster Award, Asia and South Pacific Design Automation Conference (ASPDAC)
 - *2025.07* 3rd Award, SAT Competition Main Track. 
 - *2025.01* Best Paper Award Nominee, Asia and South Pacific Design Automation Conference (ASPDAC)
-- *2022.06* Best Paper Award Nominee, Design Automation Conference (DAC)
+- *2022.06* Best Paper Award Nominee, Design Automation Conference (DAC) -->
 
 # 💼 Works
-- *2026.03 - Now*, PostDoc, The Chinese University of Hong Kong. 
-- *2026.05 - Now*, Visiting Scholar, University of Bremen. 
+- *2027.01 - Now*, Assistant Professor, Hong Kong University of Science and Technology, Guangzhou. 
+- *2026.03 - 2026.12*, PostDoc, The Chinese University of Hong Kong. 
+- *2026.05 - 2026.08*, Visiting Scholar, University of Bremen. 
 
 # 📖 Educations
 - *2021.08 - 2026.03*, Ph.D., Department of Computer Science and Engineering, The Chinese University of Hong Kong. 
