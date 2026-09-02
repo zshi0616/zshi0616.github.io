@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhengyuan Shi (石正源, Stone) will join the [Microelectronics Thrust](https://mics.hkust-gz.edu.cn/) of Hong Kong University of Science and Technology, Guangzhou (HKUST-GZ) as Assistant Professor in Jan. 2027. I'm now a Postdoctoral Fellow at The Chinese University of Hong Kong (CUHK), supervised by [Prof. Qiang Xu](https://cure-lab.github.io/). Before that, I was Visiting Scholar at University of Bremen, work with[Prof. Rolf Drechsler](https://rolfdrechsler.de/). I obtained Ph.D. degree from CUHK in 2026 and B.Eng. degree with presidential scholarship from Shandong University in 2021. I have published more than 40 papers at top-tier conferences and journals, with 1 Best Paper Award (DAC26, as corresponding author), 1 Best Poster Award (ASPDAC26, as first author) and 2 Best Paper Nomination awards. I have also served as TPC member for several conferences and reviewer for journals. 
+Zhengyuan Shi (石正源, Stone) will join the [Microelectronics Thrust](https://mics.hkust-gz.edu.cn/) of Hong Kong University of Science and Technology, Guangzhou (HKUST-GZ) as Assistant Professor in Jan. 2027. I'm now a Postdoctoral Fellow at The Chinese University of Hong Kong (CUHK), supervised by [Prof. Qiang Xu](https://cure-lab.github.io/). Before that, I was Visiting Scholar at University of Bremen, work with [Prof. Rolf Drechsler](https://rolfdrechsler.de/). I obtained Ph.D. degree from CUHK in 2026 and B.Eng. degree with presidential scholarship from Shandong University in 2021. I have published more than 40 papers at top-tier conferences and journals, with 1 Best Paper Award (DAC26, as corresponding author), 1 Best Poster Award (ASPDAC26, as first author) and 2 Best Paper Nomination awards. I have also served as TPC member for several conferences and reviewer for journals. 
 
 My research focuses on **AI/LLM** for **Electronic Design Automation (EDA)** and **Constraint Programming (CP)**. 
 
@@ -46,7 +46,7 @@ Contact: zyshi21[AT]cse.cuhk.edu.hk / zshi0616[AT]gmail.com
 # 🧐 Research
 **Circuit Representation Learning**: 
 
-- Netlist Encoder: [DeepGate Family @ ICCAD23](https://github.com/zshi0616/python-deepgate) for combination circuit, [DeepSeq Family @ DAC26](https://arxiv.org/abs/2608.28188) for sequential circuit. 
+- Netlist Encoder and Its Applications: [DeepGate Family @ ICCAD23](https://github.com/zshi0616/python-deepgate) for combinational circuit, [DeepSeq Family @ DAC26](https://arxiv.org/abs/2608.28188) for sequential circuit. 
 - Multimodal / Multiview Learning: [DeepCell @ ICCAD25](https://ieeexplore.ieee.org/abstract/document/11240883), [MixGate @ ICCAD26](https://arxiv.org/abs/2509.20968)
 
 **From Boolean Satisfiability to Logic Verification**: 
