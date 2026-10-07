@@ -33,6 +33,10 @@ Contact: zyshi21[AT]cse.cuhk.edu.hk / zshi0616[AT]gmail.com
 - *2026.07*: &nbsp; Two papers were accepted by ICCAD 2026! 
 - *2026.02*: &nbsp; Two papers were accepted by DAC 2026. But I may not attend the conference this year 😭. 
 - *2026.01*: &nbsp; I was honored to receive the Best Poster Award at SRF of ASPDAC 2026. 
+
+<details markdown="1">
+<summary style="cursor: pointer; text-align: center; list-style: none;">--- Show More ---</summary>
+
 - *2025.09*: &nbsp; Two papers were accepted by ASPDAC 2026 (I can't wait to the magical visit to HK Disneyland~). 
 - *2025.08*: &nbsp; Our SAT solver Kissat-CURE wins the 3rd prize in SAT Competition Main Track. 
 - *2025.06*: &nbsp; Two papers *DeepCell* and *MMCircuitEval* were accepted by International Conference on Computer-Aided Design (ICCAD). 
@@ -42,6 +46,8 @@ Contact: zyshi21[AT]cse.cuhk.edu.hk / zshi0616[AT]gmail.com
 - *2025.02*: &nbsp; Our paper *Logic Optimization Meets SAT: A Novel Framework for Circuit-SAT Solving* was accepted by Design Automation Conference (DAC).
 - *2025.01*: &nbsp; Our paper *DeepSeq2: Enhanced Sequential Circuit Learning with Disentangled Representations* [Link](https://arxiv.org/abs/2411.00530) was **nominated as Best Paper** in ASPDAC. 🎉🎉
 - *2024.11*: &nbsp; Our paper about **Large Circuit Model**, an AI-native foundation model for EDA, was published in Science China Information Science [微信公众号](https://mp.weixin.qq.com/s/q-HwkFwaq44yzAZLwDQNCA)
+
+</details>
 
 # 🧐 Research
 **Circuit Representation Learning**: 
